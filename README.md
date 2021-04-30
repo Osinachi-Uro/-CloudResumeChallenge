@@ -1,2 +1,2 @@
 # -CloudResumeChallenge
-A challenge created by Forrest Braseal to challenge Cloud newbies through the rabbit hole of self learning.
+A challenge created by Forrest Braseal to take Cloud newbies through the rabbit hole of self learning.
